@@ -19,3 +19,9 @@ cd src
 premake4 gmake
 make 
 ```
+
+Linux packages that are required:
+libxi-dev
+libxrandr-dev
+libxcursor-dev
+libxinerama-dev
